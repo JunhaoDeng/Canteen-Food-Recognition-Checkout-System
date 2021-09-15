@@ -1,4 +1,8 @@
 # Canteen-Food-Recognition-Checkout-System
+## 先决条件
+1. Python 3.6及以上
+2. import所需要的各种模块
+3. Jupyter Notebook
 ## 文件说明
 1. Food_Reg_GUI_multi.ipynb：这是一张图片可以检测多个食物的智能检测系统，会根据所拍的所有图片食物的总数进行结算
 3. Food_Reg_GUI_Single.ipynb：这是一张图片只可以检测一个食物的智能检测系统，会根据所拍的所有图片食物的总数进行结算
