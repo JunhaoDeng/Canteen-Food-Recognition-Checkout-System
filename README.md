@@ -26,3 +26,5 @@ buy_value是客户的账单，包含检测出来的食物和价格，每次结�
 5. Food_Reg_GUI_multi-revise1.ipynb和Merchant_database_OS.ipynb是最主要的两个文件，前者是结账系统，后者是卖家数据库录入系统。
 这两个文件就忽略"注意"的1~4条，因为已经做了符合所有电脑的修改
 6.作为演示的测试图片就在food_recognition的目录下，所以只用浏览到food_recognition这个文件夹就可以进行demo的演示
+
+##效果图
