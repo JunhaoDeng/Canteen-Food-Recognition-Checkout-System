@@ -28,4 +28,7 @@ buy_value是客户的账单，包含检测出来的食物和价格，每次结�
 6.作为演示的测试图片就在food_recognition的目录下，所以只用浏览到food_recognition这个文件夹就可以进行demo的演示
 
 ## 效果图
+![image](https://user-images.githubusercontent.com/48834693/133499178-3f2c1ca0-986f-4d9f-a4ba-ad82fbbde4cc.png)
+![image](https://user-images.githubusercontent.com/48834693/133499207-4b35053f-3774-4e73-8ec3-a7c58d6c9c9a.png)
+
 
