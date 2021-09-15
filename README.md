@@ -1,4 +1,4 @@
-# Canteen-Food-Recognition-Checkout-System
+# 食堂图片拍照结账系统
 ## 先决条件
 1. Python 3.6及以上
 2. import所需要的各种模块
